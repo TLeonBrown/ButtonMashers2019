@@ -1,4 +1,5 @@
 # ButtonMashers2019
+# By: Tian Brown, Everett Yang, and Peter Zeng
 SBUHacks 2019
 
 * Installation:
